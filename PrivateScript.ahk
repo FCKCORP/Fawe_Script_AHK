@@ -1,4 +1,4 @@
-#SingleInstance
+﻿#SingleInstance
 
 
 SetWorkingDir, %A_ScriptDir%
